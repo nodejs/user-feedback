@@ -1,5 +1,5 @@
 This section is created to get familiarized with Node.js Community Committee aka [CommComm](https://github.com/nodejs/community-committee/) 
-and how to participate. User-feedback repository is using nodejs/evangelism model.
+and how to participate. User-feedback repository is using nodejs/evangelism model in how to get involved.
 
 How to get involved!
 --------------------
