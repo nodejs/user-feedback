@@ -6,7 +6,7 @@ We are in the formative steps of building out infrastructure, process and collab
 The Node.js End User Feedback team works with Node.js end users to provide a bi-directional feedback channel for the Node.js project through surveys, meetings and outreach.
 
 ### Initiatives
-* Support and promote the annual Node. js Foundation User Survey launched every year at Node.js Interactive (usually in October)
+* Support and promote the annual Node.js Foundation User Survey launched every year at Node.js Interactive (usually in October)
 * Support [CommComm](https://github.com/nodejs/community-committee) and [TSC](https://github.com/nodejs/community-committee) end user feedback and outreach needs.
 
 ### Governance and Contributing
