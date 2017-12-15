@@ -28,6 +28,21 @@ The Node.js End User Feedback team is chartered under the [Node.js Community Com
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - Advisor
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
 
+## End User Feedback - Looking for Participants
+
+The Node.js end user feedback team (NEUF) will be working to gather feedback from end users through a number of different channels.
+
+One of those channels will be live discussion either in person or on-line. We are starting to put together a list of businesses who:
+
+* are using Node.js for their production systems
+* use Node.js as part of their tooling
+* are evaluating Node.js as a potential technology
+* have recently chosen Node.js and are just getting started
+* would like to use Node.js but face obstacles in being able to do so
+
+If you would like to get involved and participate regularly (currently thinking is every 2 months or quarterly)
+please email user-feedback@nodejs.org.
+
 ## Additional Context
 
 The organization and formation of this initiative was kicked off by [hackygolucky](https://github.com/hackygolucky), [mhdawson](https://github.com/mhdawson) and [bnb](https://github.com/bnb). We are greatful for their leadership.
