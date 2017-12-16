@@ -2,11 +2,11 @@ This is an adapted version from Contributing.md file used by Community-Committee
 
 ## Vocabulary
 
-* A **Contributor** is any individual creating or commenting on an issue or pull request.
-* A **Collaborator** is a contributor who has been given write access to the repository
+* A **Contributor** is any individual gathering data, performing outreach, feedback collection, organizing meetings, organizing events, taking notes or providing written feedback. As much as possible, we try to capture attribution of these actions with an [issue](https://github.com/nodejs/user-feedback/issues) or a [pull request](https://github.com/nodejs/user-feedback/pulls).
+* A **Collaborator** is a **_Contributor_** who has been given write access to the repository.
+* A **Member** is a **_Collaborator_** with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the Node.js CommComm voting process.
 
 -You may start to take a look at any issues (https://github.com/nodejs/user-feedback/issues).
-
 
 # Contributions
 
@@ -26,4 +26,11 @@ by discussion, compromise on the proposed change, or withdrawal of the proposed 
 
 # Becoming a Member and Collaborator
 
-TBD
+We are still working to better define the ladder to becoming a full member. The work of User Feedback is primarily non-technical in nature. Given the norms of the Node.js project we still attribute that work through GitHub issues and pull requests.
+
+We would love your contribution and will help you become a collaborator and member.
+Start by joining our bi-weekly meetings. Please [post an issue](https://github.com/nodejs/user-feedback/issues) introducing yourself.
+
+After attending 3 Node.js End User Feedback (NEUF) meetings and becoming a **Contributor**, you will be eligible to become a **Collaborator**.
+
+After 3 months in good standing as a **Contributor**, you will be eligible to become a **Collaborator**.
