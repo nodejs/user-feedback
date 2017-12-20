@@ -4,7 +4,7 @@ This is an adapted version from Contributing.md file used by Community-Committee
 
 * A **Contributor** is any individual gathering data, performing outreach, feedback collection, organizing meetings, organizing events, taking notes or providing written feedback. As much as possible, we try to capture attribution of these actions with an [issue](https://github.com/nodejs/user-feedback/issues) or a [pull request](https://github.com/nodejs/user-feedback/pulls).
 * A **Collaborator** is a **_Contributor_** who has been given write access to the repository.
-* A **Member** is a **_Collaborator_** with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in by the Node.js CommComm voting process.
+* A **Member** is a **_Collaborator_** with voting rights who has met the requirements of participation to be considered for acceptance, and subsequently voted in using the Node.js CommComm voting process.
 
 -You may start to take a look at any issues (https://github.com/nodejs/user-feedback/issues).
 
