@@ -21,8 +21,9 @@ The Node.js End User Feedback team is chartered under the [Node.js Community Com
 
 ### Node.js End User Feedback Team Members
 
-* [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt; - Community Committee Champion
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt; - Project Lead, Co-organizer - Enterprise User focus
+* [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt; - Community Committee Champion
+* [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** - User Feedback Member
 * [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt; - Co-organizer - Local User Group focus (Chicago)
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; - Co-organizer - Node.js Individual Membership focus
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - Advisor
