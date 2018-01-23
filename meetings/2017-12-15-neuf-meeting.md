@@ -28,7 +28,6 @@ Extracted from [neuf-agenda](https://github.com/nodejs/user-feedback/labels/neuf
 
 **TOPIC**
 
-
 ## Notes
 	* We have a list of folks engaged in providing feedback data with help from Foundation team 
 	* We have user-feedback@nodejs.org. email setup.(Thank you Michael) 
