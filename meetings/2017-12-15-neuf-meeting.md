@@ -34,7 +34,7 @@ Extracted from [neuf-agenda](https://github.com/nodejs/user-feedback/labels/neuf
 	* With the Benchmarking team survey still on, we will keep the meeting on 12.29.2017 
   **Thank you Tierney** for helping us setting the meeting)
   * Highlights from Greg Wallace, **many thanks Greg**:
-  Right now, we are doing the third annual user survey run by the Foundation useful 
+    * Right now, we are doing the third annual user survey run by the Foundation useful 
   for community too (beginning with 2015- around 700 responses, 2016 around 1400 responses 
   and now the third one still running, more than 1500 responses at this time).
   Statistically significant as a sample.
