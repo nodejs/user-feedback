@@ -30,7 +30,7 @@ Extracted from [neuf-agenda](https://github.com/nodejs/user-feedback/labels/neuf
 
 ## Notes
 	* We have a list of folks engaged in providing feedback data with help from Foundation team 
-	* We have user-feedback@nodejs.org. email setup.(Thank you Michael) 
+	* We have user-feedback@nodejs.org. email setup.**Thank you, Michael** 
 	* With the Benchmarking team survey still on, we will keep the meeting on 12.29.2017 
   **Thank you Tierney** for helping us setting the meeting)
   * Highlights from Greg Wallace, **many thanks Greg**:
