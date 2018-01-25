@@ -3,7 +3,6 @@
 ## Links
 
 * **Recording**: https://www.youtube.com/watch?v=PmNHnVslzps&t=43s 
-* **GitHub Issue:** https://github.com/nodejs/user-feedback/issues/6 
 * **Minutes Google Doc:** https://docs.google.com/document/d/1CMKB5-Jp62I0eWk-8Zw4_Ka3lma5frHZEFax9bx-YNw/edit
 * **Previous Minutes Google Doc:** https://docs.google.com/document/d/1CMKB5-Jp62I0eWk-8Zw4_Ka3lma5frHZEFax9bx-YNw/edit
 
