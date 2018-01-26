@@ -31,6 +31,6 @@ We are still working to better define the ladder to becoming a full member. The 
 We would love your contribution and will help you become a collaborator and member.
 Start by joining our bi-weekly meetings. Please [post an issue](https://github.com/nodejs/user-feedback/issues) introducing yourself.
 
-After attending 3 Node.js End User Feedback (NEUF) meetings and becoming a **Contributor**, you will be eligible to become a **Collaborator**.
+After attending 3 Node.js End User Feedback (NEUF) meetings and contributing to the teams efforts, you will be recognized as as **Contributor**.
 
 After 3 months in good standing as a **Contributor**, you will be eligible to become a **Collaborator**.
