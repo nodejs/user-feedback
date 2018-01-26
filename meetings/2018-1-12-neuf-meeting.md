@@ -109,7 +109,7 @@ We need to open an issue for an open sesion and have Benchmarking survey as a ba
 
 
 **Closing Thoughts**
-- 
+
 
 ## Upcoming Meetings 1.26.2018 https://github.com/nodejs/user-feedback/issues/28 
 
