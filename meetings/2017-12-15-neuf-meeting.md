@@ -25,7 +25,6 @@ Extracted from [neuf-agenda](https://github.com/nodejs/user-feedback/labels/neuf
 - Initial Users for feedback meetings (ref: #12)
 - Next NEUF Meeting is scheduled for Friday, December 29th during holiday "dead week". Going to cancel unless there are objections? Will need help removing the event from a Calendar Maintainer.
 
-
 **TOPIC**
 
 ## Notes
@@ -63,7 +62,6 @@ Answer (Dan) Yes, Greg will provide us the data and we’re going to posted in u
 Question(Tierney) How the company name would be anonymized? Do we think, including company name, matters or not?
 
 (Dan)In January 12, 2018 we will have an initial feedback session with the output that companies who’ve recently choose Node.js or evaluating 
-
 
 
 **Closing Thoughts**
