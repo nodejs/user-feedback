@@ -70,7 +70,7 @@ https://github.com/nodejs/benchmarking/blob/master/docs/runtime_attributes.md
  
 3. Case coverage (coverage of use cases and key attributes)-to track performance
 https://github.com/nodejs/benchmarking/blob/master/docs/case_coverage.md.
-The benches running every night https://benchmarking.nodejs.org/. 
+The benchmarks running every night https://benchmarking.nodejs.org/. 
 We have a dedicated number of machines running (donated by Intel and IBM); hardware machines vs virtual machines.
 We will have a session at Community day @Index 2018, Feb 20/ free registration for that.
  
