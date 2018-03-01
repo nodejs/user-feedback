@@ -182,7 +182,7 @@ if pooling and pooling mechanism that are pain point computationally intensive.
 * Michael: start a thread, because some users have concrete use cases, 
 follow-up and get actually documented.
  
-## Upcoming Meetings 2018-02-23
+## Upcoming Meetings 2018-03-02
 * The next meeting is scheduled for Friday, 2018-03-02 at 17:00 UTC / noon ET / 11am CT / 9am PT.
 * https://github.com/nodejs/user-feedback/issues/32
 * **Node.js Foundation Calendar**: https://nodejs.org/calendar
