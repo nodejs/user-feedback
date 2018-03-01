@@ -62,7 +62,7 @@ in first Public User Feedback-Node.js Benchmarking.
     Make sure Node is running efficiently.
 1.  Define Use cases: https://github.com/nodejs/benchmarking/blob/master/docs/use_cases.md
  
-If you have a user case that doesn’t fit into one of these here is important for you to let us know, 
+If you have an use case that doesn’t fit into one of these here is important for you to let us know, 
 so we can factor in additional use cases into the work we do here.
  
 2. Key runtime attributes
