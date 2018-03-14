@@ -34,6 +34,10 @@ We are actively seeking technical and non-technical contributors to help gather 
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - Advisor
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
 
+### Node.js End User Feedback Reviewers
+Individuals who have self-selected as willing to help the User Feedback Initiative in reviewing questions before pushing to the public. 
+* [boneskull](https://github.com/boneskull) - **Christopher Hiller**
+
 ## End User Feedback - Looking for Participants :tada:
 
 The Node.js end user feedback team (NEUF) will be working to gather feedback from end users through a number of different channels.
