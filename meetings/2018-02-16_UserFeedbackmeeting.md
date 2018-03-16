@@ -168,7 +168,7 @@ can become a problem once we get into several gigabytes in size
 for our caches some of them are running at 8 gigs for their cache size.
 * Dan: It is a great way to begin exploring benchmarking usage. 
 * Michael: If you have benchmarks and you want to pursue the discussion
-with the Benchmarking WG you can may open an issue in the Benchmarking WG 
+with the Benchmarking WG you can may open an issue in the Benchmarking WG. 
   
 **Closing Thoughts**
 * Dan: for questions or others Index 2018 is an opportunity to talk direct to people.
