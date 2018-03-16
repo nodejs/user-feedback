@@ -137,9 +137,9 @@ Monitoring systems are big impact on performance
 * Joel: a single threat definitely is something that we’re constantly trying to have to work around it, because we do e-commerce and the server can general do one to two requests per second    
  
 ## Questions, remarks:
-* Michael: we can help with scripts for IBM I platforms/ running on same benchmark.
+* Aaron: We can help with scripts for IBM I platforms/ running on same benchmark.
 * Tierney: Should we provide a way to go in benchmark for like user land?
-* Michael: Is something that users can contribute to cover up of our Matrix,
+* Michael: Is something that users can contribute to in order to increase coverage in our matrix,
 or something differently we can run and evaluate?  
 * Joel: Happy to look in service-oriented architecture, 
 most of our applications, majority work they do is making its service
