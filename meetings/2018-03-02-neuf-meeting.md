@@ -77,7 +77,7 @@
 * Mihai: How happy are we with the number of answers, under 300?
 * Tierney: I was hoping we would hit 100 goal,I’m very happy to get that high (around 290 answers)
   and I think definitely will hit higher in the future. 
-* Michael: Greg told us that number is in relatively statistically significant 
+* Michael: Greg told us that number is statistically significant. 
 * Greg: There is a tool that I find on the web that will allow you to determine the confidence percentage 
   that you can have based on the population size and sample size. 
 * Dan: Chris has a major contribution to the open source ecosystem, he’s a maintainer for Mocha and will be
