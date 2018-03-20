@@ -36,7 +36,7 @@
 * Michael: We want to be as inclusive as we can, so anybody who shows up and self-select as representative of that group is 
   welcome to come and participate.
 * Tierney: Is there a specific issue I can point people?
-* Michael: I tweeted earlier so we can do kind of publicize.
+* Michael: There is an issue that I tweeted out earlier in this repo.
 * Dan: Maybe Diagnostics may be interested to engage, who’s leading that effort?
 * Michael: I’m looking for the person who’s going to help pull it into core. I’ll take an action to figure out who can 
   get on that side.
@@ -60,18 +60,16 @@
   and then figure out who to bring as opposed to trying to pre-figure that out.
 * Tierney: The thing I’d be most concerned about with pre-figuring that out is optimizing for the people who have already given feedback pretty extensively, like Myles and Jordan (involved in the project for quite a while), and I just be concerned that continuing to build like an echo chamber kind to ourselves and the feedback that we’ve already gotten, I’m elevating those voices over something with people who at least I’ve considered I had conversations with say feel like we’re kind of very much in echo chamber in a very exclusive environment, it’s hard to break into so I think we really to optimize for the ecosystem tooling people who haven’t really interacted with the node project.
 * Michael: I’ll like to have people come in tell us, what they’re thinking help us understand a bit better concerns 
-  and where they might want see things going and from that we can sort of figure out how do we bring additional people from the project
-  to align that versus some other way.
+  and where they might want see things going and from that we can figure out who else to try and pull in.
 * Tierney: I already reached out to a few people, I’ll point people in that direction.
 * Dan: My concern is: we are creating space for this discussion and then where is it go? Is not clear if is Comm-Comm, 
   user feedback is not an incubation space for initiatives…  
 * Michael: I don’t think it need to go anywhere, our focus is to keep regular contacts with these groups and then once the contacts
   takes place, if there’s concrete actions that need to happen out of those, like for example here’s a real pain point, 
   our actions to figure out how to pull in the other people who can discuss that specific pain point have 
-  a specific meanings around that. You’re thinking is like do we need to go to a strategic initiative around this or a WG,
-  I could see that is useful in some cases, but I think it’s equally perfectly reasonable if we just have every 3 months
-  we get together the group, in the different user representatives, this and this one around people building tooling 
-  and have a discussion. It doesn’t have to graduate into something else,I think working groups to have like a close relationship
+  a specific meanings around that. The alternative is to spin up a team or strategic initiative,
+  I could see that is useful in some cases, but I think it’s equally perfectly reasonable if every 3 months we the group together.
+  It doesn’t have to graduate into something else,I think working groups to have like a close relationship
   too core.
 * Chris: We have these user feedback session an maybe an intuitive coming out, well there needs to be some sort of champion in core
   to get much of anything done, I think we should be going(this is not going to happen overnight ) is that we need more people
@@ -82,7 +80,7 @@
 * Michael: I agree 100% with theory that group needs to get more involved, because it’s not going
   to be like “here’s a bunch of requirements, somebody else goes off and does it”;
   but I can easily say it’s like: “here it’s a bunch of things we’d like to see happen and we’re willing to invest some time in core
-  to make it happen but we’re not as plugged in so we need some help and that some other people say, yeah we’ll support you doing that”. the first step is just coming to an understanding what those might be and what they look like and how much work they take, and once, if this group comes up with : well here’s the document now everybody understands it better that’s the next step for figuring out how you might actually make it happen.
+  to make it happen but we’re not as plugged in so we need some help and that some other people say, yeah we’ll support you doing that”.   The first step is just coming to an understanding what those might be and what they look like and how much work they take, and once,     if this group comes up with : well here’s the document now everybody understands it better that’s the next step for  figuring out how   you might actually make it happen.
 * Chris: Part of the reason that I thought I’m going to propose this idea was that myself and some others who come from this world
   have kind of felt like when they proposed an idea to core it’s received as something completely out of left field and 
   that sort of make sense if the people in core mainly aren’t working in that world, so it’s my hope that we can kind of bridge 
@@ -142,7 +140,7 @@
 * Michael: It’s kind of hard to understand each other if we don’t understand what the modules doing. Some of them like probably
   NPM we understand well, but others may not be as obvious to people what the relationship is an innovation dependence, 
   all that kind of stuff.      
-* Dan: there is npm a new tooling that npm is building like mpx.
+* Dan: there is npm a new tooling that npm is building like npx.
 * Michael: Every meeting maybe could benefit from a what’s new in terms of our other modules planning something new that they think 
   might affect Node and vice-versa; NPM is introducing something new, hearing about that upfront and it won’t just be the people
   in the meeting it’s whoever else wants to watch the meeting afterwards and there’s something particularly interesting that comes 
