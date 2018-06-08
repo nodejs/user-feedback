@@ -30,7 +30,6 @@ We are actively seeking technical and non-technical contributors to help gather 
 * [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** - User Feedback Member
 * [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt; - Co-organizer - Local User Group focus (Chicago)
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; - Co-organizer - Node.js Individual Membership focus
-* [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt; - Community Committee Champion
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - Advisor
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
 
