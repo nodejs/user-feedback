@@ -37,6 +37,10 @@ We are actively seeking technical and non-technical contributors to help gather 
 Individuals who have self-selected as willing to help the User Feedback Initiative in reviewing questions before pushing to the public. 
 * [boneskull](https://github.com/boneskull) - **Christopher Hiller**
 
+### Archives
+* [Meeting recordings on YouTube](https://www.youtube.com/playlist?list=PLfMzBWSH11xY08hahRrbpvccelFSa6rUQ)
+* [Meeting Index](https://github.com/nodejs/user-feedback/tree/master/meetings)
+
 ## End User Feedback - Looking for Participants :tada:
 
 The Node.js end user feedback team (NEUF) will be working to gather feedback from end users through a number of different channels.
