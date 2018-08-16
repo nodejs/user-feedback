@@ -30,12 +30,9 @@ We are actively seeking technical and non-technical contributors to help gather 
 * [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** - User Feedback Member
 * [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt; - Co-organizer - Local User Group focus (Chicago)
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; - Co-organizer - Node.js Individual Membership focus
+* [boneskull](https://github.com/boneskull) - **Christopher Hiller** - &lt;boneskull@boneskull.com&gt; - Co-organizer - Tooling User Group focus
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - Advisor
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
-
-### Node.js End User Feedback Reviewers
-Individuals who have self-selected as willing to help the User Feedback Initiative in reviewing questions before pushing to the public. 
-* [boneskull](https://github.com/boneskull) - **Christopher Hiller**
 
 ### Archives
 * [Meeting recordings on YouTube](https://www.youtube.com/playlist?list=PLfMzBWSH11xY08hahRrbpvccelFSa6rUQ)
