@@ -25,13 +25,13 @@ We are actively seeking technical and non-technical contributors to help gather 
 
 ### Node.js End User Feedback Team Members
 
-* [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt; - Project Lead, Co-organizer - Enterprise User focus
-* [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt; - Community Committee Champion
-* [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** - User Feedback Member
-* [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt; - Co-organizer - Local User Group focus (Chicago)
-* [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt; - Co-organizer - Node.js Individual Membership focus
-* [boneskull](https://github.com/boneskull) - **Christopher Hiller** - &lt;boneskull@boneskull.com&gt; - Co-organizer - Tooling User Group focus
-* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt; - Advisor
+* [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt; - Community Committee Champion
+* [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt;
+* [boneskull](https://github.com/boneskull) - **Christopher Hiller** - &lt;boneskull@boneskull.com&gt; - [Tooling User Focus Lead](https://github.com/nodejs/user-feedback/issues?q=label%3Auser-feedback-tooling)
+* [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
+* [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** - Project Manager and Scribe
+* [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt;
+* [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
 
 ### Archives
