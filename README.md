@@ -29,7 +29,7 @@ We are actively seeking technical and non-technical contributors to help gather 
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt;
 * [boneskull](https://github.com/boneskull) - **Christopher Hiller** - &lt;boneskull@boneskull.com&gt; - [Tooling User Focus Lead](https://github.com/nodejs/user-feedback/issues?q=label%3Auser-feedback-tooling)
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
-* [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** - Project Manager and Scribe
+* [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** &lt;mihai.enepietrosanu@gmail.com&gt; - Project Manager and Scribe
 * [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
