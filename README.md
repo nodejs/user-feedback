@@ -26,6 +26,7 @@ We are actively seeking technical and non-technical contributors to help gather 
 ### Node.js End User Feedback Team Members
 
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt; - Community Committee Champion
+* [ahmadnassri](https://github.com/ahmadnassri) - **Ahmad Nassri** &lt;ahmad@ahmadnassri.com&gt; - [Enterprise User Focus Lead](https://github.com/nodejs/user-feedback/issues?q=label%3Auser-feedback-enterprise)
 * [bnb](https://github.com/bnb) - **Tierney Cyren** &lt;hello@bnb.im&gt;
 * [boneskull](https://github.com/boneskull) - **Christopher Hiller** - &lt;boneskull@boneskull.com&gt; - [Tooling User Focus Lead](https://github.com/nodejs/user-feedback/issues?q=label%3Auser-feedback-tooling)
 * [mhdawson](https://github.com/mhdawson) - **Michael Dawson** &lt;michael_dawson@ca.ibm.com&gt;
