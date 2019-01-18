@@ -14,7 +14,7 @@ The Node.js End User Feedback team works with Node.js end users to provide a bi-
 
 ### Governance and Contributing
 The Node.js End User Feedback team has adopted the core governance and contribution policies of the Node.js project.
- 
+
 The Node.js End User Feedback team is chartered under the [Node.js Community Committee (CommComm)](https://github.com/nodejs/community-committee) and follows [CommComm Governance policy](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md).
 
 #### Contributing Guide
@@ -33,6 +33,7 @@ We are actively seeking technical and non-technical contributors to help gather 
 * [mihaiep](https://github.com/mihaiep) - **Mihai Ene-Pietrosanu** &lt;mihai.enepietrosanu@gmail.com&gt; - Project Manager and Scribe
 * [mikehostetler](https://github.com/mikehostetler) - **Mike Hostetler** - &lt;mike.hostetler@gmail.com&gt;
 * [williamkapke](https://github.com/williamkapke) - **William Kapke** &lt;will@kap.co&gt;
+* [joesepi](https://github.com/joesepi) - **Joe Sepi** &lt;joesepi@gmail.com&gt;
 * [hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds** &lt;tracyhinds@gmail.com&gt; - Advisor
 
 ### Archives
