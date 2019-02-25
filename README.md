@@ -57,17 +57,17 @@ please email user-feedback@nodejs.org.
 
 ## Current User Feedback Initiative timeline 
 
-2/22 - User feedback session blog posts complete
-2/22 - Have 6-8 meetups confirmed to do the session
-3/10 - Reach out to meetups to make sure things are scheduled and have guidelines
-3/25 - Publishing enterprise user group and put it in a .md
-3/25 - Get the blog post or guidelines up on a .md file
-4/10 - Reach back out to meetups to make sure they are prepared
-4/25 - Meeting enterprise user group
-5/15 - We have done user feedback session
-6/15 - Conduct feedback and update the user feedback updates & measure results of what we were able to get again
-7/15 - Out of “beta”
-8/15 - Adding the user feedback to “get involved”
+* 2/22 - User feedback session blog posts complete
+* 2/22 - Have 6-8 meetups confirmed to do the session
+* 3/10 - Reach out to meetups to make sure things are scheduled and have guidelines
+* 3/25 - Publishing enterprise user group and put it in a .md
+* 3/25 - Get the blog post or guidelines up on a .md file
+* 4/10 - Reach back out to meetups to make sure they are prepared
+* 4/25 - Meeting enterprise user group
+* 5/15 - We have done user feedback session
+* 6/15 - Conduct feedback and update the user feedback updates & measure results of what we were able to get again
+* 7/15 - Out of “beta”
+* 8/15 - Adding the user feedback to “get involved”
 
 ## Additional Context
 
