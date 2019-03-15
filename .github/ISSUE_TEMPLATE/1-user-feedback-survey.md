@@ -5,6 +5,9 @@ about: Want to initiate a user-feedback survey on a specific topic? Great! Use t
 
 <!--
 If you'd like to get feedback from the community on a topic, please create an issue with the below information and begin to craft the necessary questions in an accompanying document. Once you feel all the details are in place for the Foundation to execute the survey, please open a pull request using the User-Feedback Pull Request template. Thank you!
+
+This issue title should follow this format:
+USER-FEEDBACK SURVEY - TOPIC (i.e. Migration Issues)
 -->
 
 **Survey title**
