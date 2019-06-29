@@ -74,7 +74,7 @@ please email user-feedback@nodejs.org.
 
 ## Additional Context
 
-The organization and formation of this initiative was kicked off by [hackygolucky](https://github.com/hackygolucky), [mhdawson](https://github.com/mhdawson) and [bnb](https://github.com/bnb). We are greatful for their leadership.
+The organization and formation of this initiative was kicked off by [hackygolucky](https://github.com/hackygolucky), [mhdawson](https://github.com/mhdawson) and [bnb](https://github.com/bnb). We are grateful for their leadership.
 
 * [#community-committee/96](https://github.com/nodejs/community-committee/issues/96) Node.js User Feedback initiative
 * [#community-committee/112](https://github.com/nodejs/community-committee/issues/112) Node.js User Feedback project planning
